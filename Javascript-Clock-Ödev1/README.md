@@ -20,7 +20,7 @@
 ## Key Features
 
 * Real Time Clock
-  - Instantly see what is your time. With cool pictures feel fresh![time](https://user-images.githubusercontent.com/89473605/175769704-698dc8b6-a247-486c-89a9-409166a4e32e.gif)
+  - Instantly see what is your time. With cool pictures feel fresh![time]
 
 * Sync Background Images
   - When page reloaded it will be automatically change background to the current time perspective.![background](https://user-images.githubusercontent.com/89473605/175769758-ff954597-6015-494b-9257-0964fbf60b9e.gif)
