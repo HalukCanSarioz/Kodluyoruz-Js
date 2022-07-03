@@ -1,7 +1,6 @@
-<h2 align="center"># Kodluyoruz-Js </h2>
+# Kodluyoruz-Js 
 <h2 align="center"> The project at the end of the online training given to learn CSS in PatikaDev. </h2>
-
-<hr>
+ü
 <h4 align="center">A little description for project <a href="https://github.com/HalukCanSarioz/Kodluyoruz-Js/tree/main/Javascript-Clock-%C3%96dev1" target="_blank">JavaScript-Clock</a>.</h4>
 
 <p align="center">
