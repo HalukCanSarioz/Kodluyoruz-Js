@@ -1,12 +1,5 @@
-![My project-2](https://user-images.githubusercontent.com/89473605/175666125-9cfbce77-d2a6-4b35-a2c2-c1e74d0ee7f0.png)
-
 <hr>
 <h4 align="center">A little description for project <a href="https://github.com/HalukCanSarioz/Kodluyoruz-Js/tree/main/Javascript-Clock-%C3%96dev1" target="_blank">JavaScript-Clock</a>.</h4>
-
-<p align="center">
-  <img src="https://img.shields.io/github/commit-activity/y/halukcansarioz/JavaScript-Clock">
-  <img src="https://img.shields.io/github/license/asimcanyagiz/JavaScript-Clock">
-</p>
 
 <p align="center">
   <a href="#key-features">Key Features</a> •
@@ -23,7 +16,7 @@
   - Instantly see what is your time. With cool pictures feel fresh![time]
 
 * Sync Background Images
-  - When page reloaded it will be automatically change background to the current time perspective.![background](https://user-images.githubusercontent.com/89473605/175769758-ff954597-6015-494b-9257-0964fbf60b9e.gif)
+  - When page reloaded it will be automatically change background to the current time perspective.![background]
 
 * With prompt you can see your name in the top of the clock
 * Allusion support, sync with clock. It is clock will make you happy.
