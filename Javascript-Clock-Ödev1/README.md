@@ -4,7 +4,7 @@
 <h4 align="center">A little description for project <a href="https://github.com/asimcanyagiz/JavaScript-Clock" target="_blank">JavaScript-Clock</a>.</h4>
 
 <p align="center">
-  <img src="https://img.shields.io/github/commit-activity/y/asimcanyagiz/JavaScript-Clock">
+  <img src="https://img.shields.io/github/commit-activity/y/halukcansarioz/JavaScript-Clock">
   <img src="https://img.shields.io/github/license/asimcanyagiz/JavaScript-Clock">
 </p>
 
