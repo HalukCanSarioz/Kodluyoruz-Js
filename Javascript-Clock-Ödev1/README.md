@@ -38,10 +38,10 @@ To clone and run this application, you'll need [Git](https://git-scm.com) instal
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/asimcanyagiz/JavaScript-Clock
+$ git clone https://github.com/HalukCanSarioz/Kodluyoruz-Js.git
 
 # Go into the repository
-$ cd JavaScript-Clock
+$ cd JavaScript-Clock-Ödev1
 
 # Open with browser
 $ open index.html
@@ -50,7 +50,7 @@ $ open index.html
 
 ## Download
 
-You can [download](https://github.com/HalukCanSarioz/Kodluyoruz-Js/tree/main/Javascript-Clock-%C3%96dev1) the latest installable version of JavaScript-Clock for Windows, macOS and Linux.
+You can [download](https://github.com/HalukCanSarioz/Kodluyoruz-Js.git) the latest installable version of JavaScript-Clock for Windows, macOS and Linux.
 
 ## Technologies Used
 
