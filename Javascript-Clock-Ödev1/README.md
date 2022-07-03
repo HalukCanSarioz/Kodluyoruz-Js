@@ -1,7 +1,7 @@
 ![My project-2](https://user-images.githubusercontent.com/89473605/175666125-9cfbce77-d2a6-4b35-a2c2-c1e74d0ee7f0.png)
 
 <hr>
-<h4 align="center">A little description for project <a href="https://github.com/HalukCanSarioz/Kodluyoruz-Js/Javascript-Clock-Ödev1" target="_blank">JavaScript-Clock</a>.</h4>
+<h4 align="center">A little description for project <a href="https://github.com/HalukCanSarioz/Kodluyoruz-Js/tree/main/Javascript-Clock-%C3%96dev1" target="_blank">JavaScript-Clock</a>.</h4>
 
 <p align="center">
   <img src="https://img.shields.io/github/commit-activity/y/halukcansarioz/JavaScript-Clock">
