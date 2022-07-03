@@ -50,7 +50,7 @@ $ open index.html
 
 ## Download
 
-You can [download](https://github.com/asimcanyagiz/JavaScript-Clock) the latest installable version of JavaScript-Clock for Windows, macOS and Linux.
+You can [download](https://github.com/HalukCanSarioz/Kodluyoruz-Js/tree/main/Javascript-Clock-%C3%96dev1) the latest installable version of JavaScript-Clock for Windows, macOS and Linux.
 
 ## Technologies Used
 
@@ -73,9 +73,5 @@ Freepik - Background Images
 <br>
 Patika.dev - A page you should visit if you want developer
 
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit)
 
 ---
