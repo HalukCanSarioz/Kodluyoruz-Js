@@ -1,4 +1,4 @@
-# Kodluyoruz-Js
+<a align="center"># Kodluyoruz-Js </a>
 The project at the end of the online training given to learn CSS in PatikaDev.
 
 <hr>
